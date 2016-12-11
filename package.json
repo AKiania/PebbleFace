@@ -1,0 +1,28 @@
+{
+    "author": "AlboTech",
+    "dependencies": {},
+    "keywords": [],
+    "name": "linguo-app",
+    "pebble": {
+        "displayName": "linguo App",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "5e368d03-9c29-466d-ab9f-e743aa6d8b58",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
